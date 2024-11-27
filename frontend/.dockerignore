@@ -1,0 +1,8 @@
+node_modules/
+*.log
+.git/
+.env
+.vscode/
+dist/
+build/
+coverage/
